@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/safak/interview'
+make: Leaving directory '/home/safak/interview'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
